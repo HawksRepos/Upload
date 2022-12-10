@@ -10,7 +10,7 @@
 # Global variables ##################
 KEYS=20
 CLEANSLEEP=86400
-BASE="/home/hawks/.config/rclone/upload"
+BASE="/rclone/upload"
 USERAGENT="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36"
 EXCLUDEARRAY=("*.nfo" "*.jpeg" "*.jpg" "*sample*" "*SAMPLE*" "*.png" "*.html" "*.backup~" "*.partical~" "**_HIDDEN~" "*.unionfs/**" "**partial~" ".unionfs-fuse/**" ".fuse_hidden**" ".FUSE_HIDDEN**" "**.grab/**" "**sabnzbd**" "**nzbget**" "**qbittorrent**" "**rutorrent**" "**deluge**" "**transmission**" "**jdownloader**" "**makemkv**" "**handbrake**" "**bazarr**" "**ignore**" "**inProgress**" "**torrent**" "**nzb**")
 SERVICE="/etc/systemd/system/upload.service"
