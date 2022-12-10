@@ -1,6 +1,6 @@
 #!/bin/bash
 #################################################################
-# Author(s): Hawks                                                 #
+# Author(s): Hawks                                              #
 # Version: v0.1.0                                               #
 # Date: 2022-12-10                                              #
 # Description:  Google file upload script that uses Rclone      #
